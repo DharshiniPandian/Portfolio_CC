@@ -1,0 +1,13 @@
+#home, #about, #skills, #contact {
+    height: 200px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#skills ul{
+    text-align: center;
+    list-style-type: none;
+    margin-left: 0;
+}
